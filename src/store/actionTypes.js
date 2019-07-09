@@ -1,0 +1,2 @@
+export const INCREMENT = `INCREMENT`;
+export const TASK_ONDRAGEND = `TASK_ONDRAGEND`;
